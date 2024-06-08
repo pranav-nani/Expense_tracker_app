@@ -29,7 +29,7 @@ Managing expenses is a common task, and this project provides an efficient solut
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/pranav-nani/Expense_tracker_app)
+git clone https://github.com/pranav-nani/Expense_tracker_app
 ```
 
 2. **Navigate to the Project Directory:**
