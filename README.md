@@ -20,7 +20,7 @@ Managing expenses is a common task, and this project provides an efficient solut
 
 ## Explore the Project
 
-- **GitHub Repository:** [Expense Tracker GitHub](https://github.com/humayyonahmed/tcw-expense-tracker)
+- **GitHub Repository:** [Expense Tracker GitHub](https://github.com/pranav-nani/Expense_tracker_app)
   
 - **Live Demo:** [Expense Tracker Live Demo](https://tcw-expense-tracker.netlify.app)
   
